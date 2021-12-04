@@ -1,4 +1,4 @@
-https://github.com/dojnny/Notebook_pyclass
+https://github.com/dojnny/Notebookclass_py
 
 # Notebook PyClass - Real World Notebook in Python
 
@@ -40,5 +40,5 @@ Later on, we test each of the created functions, by getting and setting some of 
 
 To run this demo program, you have to clone the repository, and then execute the python file
 
-    git clone https://github.com/dojnny/Notebook_pyclass.git . # Clone the repository
+    git clone https://github.com/dojnny/Notebookclass_py.git . # Clone the repository
     python ./class.py # Execute the python file
